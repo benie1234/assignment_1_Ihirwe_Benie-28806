@@ -26,7 +26,7 @@ Query Goal: Finds the time gap between consecutive orders for customers with mor
 SQL Logic: Implements a CTE with the LAG() window function to grab the previous order date, filtering for customers with total_orders > 1.
 
 Results & Screenshots
-(Insert your terminal screenshots here or reference image files)
+
 
 Business Interpretation
 
